@@ -1,1 +1,1 @@
-# DBNs-for-Visual-Concept-Learning
+# Deep Belief Networks (DBNs) for Visual Concept Learning
